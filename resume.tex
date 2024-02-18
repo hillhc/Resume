@@ -1,0 +1,187 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[10pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage{fontawesome5}
+%\usepackage{fontspec}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.9,bottom=3pt,top=10pt]{geometry}
+\usepackage{multicol}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+\usepackage{import}
+
+\newcommand{\cvdoublecolumn}[2]{%
+  \cvitem[0.75em]{}{%
+    \begin{minipage}[t]{\listdoubleitemcolumnwidth}#1\end{minipage}%
+    \hfill%
+    \begin{minipage}[t]{\listdoubleitemcolumnwidth}#2\end{minipage}%
+    }%
+}
+\newcommand{\cvreference}[5]{%
+    \textbf{#1}\hfill%
+    \ifthenelse{\equal{#5}{}}{}{\emailsymbol~\texttt{#5}\newline}% Name
+    \ifthenelse{\equal{#2}{}}{}{\addresssymbol~#2\newline}%
+    \ifthenelse{\equal{#3}{}}{}{#3\newline}%
+    \ifthenelse{\equal{#4}{}}{}{#4}%
+}
+
+% personal data
+\name{Hill}{Choy}
+
+\newcommand*{\customcvedu}[7][.25em]{
+    \begin{tabular}{@{}l} 
+        {\bfseries #4}
+      \end{tabular}
+      \hfill% move it to the right
+      \begin{tabular}{l@{}}
+         {\bfseries #5}
+      \end{tabular} \\
+      \begin{tabular}{@{}l} 
+        {\itshape #3}
+      \end{tabular}
+      \hfill% move it to the right
+      \begin{tabular}{l@{}}
+         {\itshape #2}
+      \end{tabular}
+      \ifx&#7&%
+      \else{\\%
+        \begin{minipage}{\maincolumnwidth}%
+          \small#7%
+        \end{minipage}}\fi%
+      \par\addvspace{#1}
+}
+  
+\newcommand*{\customcventry}[5][.25em]{
+  \begin{tabular}{@{}l} 
+    {\bfseries #2}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\bfseries #3}
+  \end{tabular} 
+  %\begin{tabular}{@{}l} 
+  %  {\itshape #1}
+  %\end{tabular}
+  %\hfill% move it to the right
+  %\begin{tabular}{l@{}}
+  %   {\itshape #2}
+  %\end{tabular}
+  \ifx&#5&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#5%
+    \end{minipage}}\fi%
+  %\par\addvspace{#1}
+  }
+
+\newcommand*{\customcvproject}[4][.25em]{
+%   \vfill\noindent
+  \begin{tabular}{@{}l} 
+    {\bfseries #2}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\itshape #3}
+  \end{tabular}
+  \ifx&#4&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#4%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+\setlength{\tabcolsep}{12pt}
+
+\let\cleardoublepage=\clearpage
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+\vspace*{-10mm}
+
+\begin{center}
+\begin{tabular}{ c c c c }
+ \emailsymbol hchoy@connect.ust.hk & \faGithub\enspace \href{https://github.com/hillhc}{\textbf{hillhc}} & \faMobile\enspace +852-61718745 & \faGlobe\enspace \href{https://hillchoy.com./}{\textbf{https://hillchoy.com}} \\  
+\end{tabular}
+\end{center}
+
+\section{SUMMARY}
+I am a Year 4 undergraduate student at HKUST, majoring in Computer Engineering. I am currently working on my final year project on Advanced Video Analysis and Edge AI under the supervision of Dr. Gary Sheung Han Chan. My research interests primarily lie in the area of machine learning and its practical applications, with a particular focus on natural language processing, algorithmic game theory, and the application of machine learning methods in real-world scenarios. I am currently seeking a master's research / further studies opportunity in any of the aforementioned areas.
+
+\section{EDUCATION}
+{\customcvedu{Expected Graduation: June 2024}{BEng in Computer Engineering}{Hong Kong University of Science and Technology (HKUST)}{}{}{}}
+
+
+%\newpage
+\section{PROJECT}
+{\customcventry{Project title}{Supervisor}{}{}
+}\enspace\\
+
+{\customcventry{Advanced Video Analytics and Edge AI for Smart Carpark Systems}{Dr. Gary Shueng-Han CHAN}{}
+{\begin{itemize}
+  \item In this project, we aim to develop a smart carpark system that utilizes edge AI to provide real-time parking space availability. The goal of the system is to build a system that is capable of informing drivers of available parking spaces while minimizing the computational, installation, and maintenance costs of the system.
+  \vspace{0.2cm}
+  \item The project involves the use of the latest object detection model, YOLOv8, with MobileNetV3 backbone structure, to design and train a model capable of detecting the presence of vehicles in parking spaces. This model can be deployed on the edge devices with limited computational power (Raspberry Pi) to capture and determine if a parking slot is empty or occupied.The project also involves the design and building of backend system structure and the use of LoRaWAN technology to transmit the parking space availability information to the backend, which can then be used to inform drivers of available parking spaces.
+  \vspace{0.2cm}
+  \item More details about the project can be found at: \href{http://eek123.ust.hk/SmartCarpark/}{\textbf{http://eek123.ust.hk/SmartCarpark/}}
+\end{itemize}
+}
+}\enspace\\
+\section{Courses and Skills}
+These courseworks have provided me with a foundation understandong in the theoretical and practical aspects in Machine Learing. I have also gained experience in algorithm design and analysis, and a basic understanding of computer networks.
+I believe that these courses have provided the necessary foundation for me to pursue further studies in the field.
+\vspace{0.5cm}
+\begin{itemize}
+  \item \textbf{COMP 4221:} Introduction to Natural Language Processing.
+  \vspace{0.2cm}
+  \item \textbf{COMP 4332:} Big Data Mining and Management.
+  \vspace{0.2cm}
+  \item \textbf{COMP 4222:} Machine Learning with Structured Data.
+  \vspace{0.2cm}
+  \item \textbf{COMP 4621:} Computer and Communication Networks.
+  \vspace{0.2cm}
+  \item \textbf{Skills:} Python, C++/C, SQL, Linux, TensorFlow, PyTorch, LoRaWAN, STM32 and Arduino Platform.
+\end{itemize}
+
+\section{INDUSTRY EXPERIENCE}
+
+{\customcventry{HKT/PCCW, Fixed Networks Operation - ISPC (CFM/CDM)}{Intern}{}
+{\begin{itemize}
+  \item In this internship, I was responsible for the upgrade of the out-dated internal tools of the department for the purpose of improving the efficiency of the department's daily operations in the area of telephone line management.
+  \vspace{0.2cm}
+  \item The main project involved the use of Python and SQL to develop a tool capable of automatically capturing customer data from the company's order system. The captured data is then written into the company's MySQL database. Additionally, an order report is generated during this process, which facilitates the actions requested by the order for technicians and other systems.The position also involved developing additional internal tools that empower management and supervisors to monitor the department's daily operations more efficiently and effectively.
+  \vspace{0.2cm}
+  \item The internship has provided me with the opportunity to work in a professional environment and has allowed me to gain experience working with a team to develop and maintain a system critical to the company's daily operations. It has also afforded me the chance to implement what I have learned in coursework into real-life scenarios.
+\end{itemize}
+}{}
+}\enspace\\
+  %-----       letter       ---------------------------------------------------------
+\end{document}
+
+
+%% end of file `template.tex'.

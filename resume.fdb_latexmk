@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1719335799 "c:/React/my-profo/mypro/Resume/resume.tex" "resume.pdf" "resume" 1719335802
-  "c:/React/my-profo/mypro/Resume/resume.tex" 1719335798 9202 2e4b6bdfb86b5fa8573aa4130ed9259a ""
+["pdflatex"] 1720729119 "c:/React/my-profo/mypro/Resume/resume.tex" "resume.pdf" "resume" 1720729121
+  "c:/React/my-profo/mypro/Resume/resume.tex" 1720729118 8908 c8e9d754b685fa67d7c83cae8095fc97 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1664123740 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1664123740 3083 a707712f77b073b3833e4b1334a30e99 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1664123740 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -177,9 +177,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1664134303 4635069 7677ee69604aae14ed48b153c111a7f7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664134513 3058679 4417918d35ba2c2828715b5a7e987ea5 ""
   "c:/texlive/2022/texmf.cnf" 1664134253 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1719335801 1072 dff83327d5391a1bb5592eb9426ff46c "pdflatex"
-  "resume.out" 1719335801 524 c44e886fe3787bcc4318670670755714 "pdflatex"
-  "resume.tex" 1719335798 9202 2e4b6bdfb86b5fa8573aa4130ed9259a ""
+  "resume.aux" 1720729121 1167 ca0825ef0c7810acb91ce3b7d67ee006 "pdflatex"
+  "resume.out" 1720729121 627 0b7086805cf803f43fd9220ebd8fecbc "pdflatex"
+  "resume.tex" 1720729118 8908 c8e9d754b685fa67d7c83cae8095fc97 ""
   (generated)
   "resume.aux"
   "resume.log"

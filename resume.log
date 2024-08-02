@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  12 JUL 2024 05:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  2 AUG 2024 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,12 +771,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--158
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--186
+Underfull \hbox (badness 10000) in paragraph at lines 180--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--186
+Underfull \hbox (badness 10000) in paragraph at lines 180--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--190
 
  []
 
@@ -787,15 +792,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 0B7086805CF803F43FD9220EBD8FECBC;627.
  ) 
 Here is how much of TeX's memory you used:
- 26202 strings out of 475075
- 507081 string characters out of 5783001
- 866824 words of memory out of 5000000
+ 26198 strings out of 475075
+ 507041 string characters out of 5783001
+ 865825 words of memory out of 5000000
  47098 multiletter control sequences out of 15000+600000
- 503570 words of font info for 73 fonts, out of 8000000 for 9000
+ 503286 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,122p,1034b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on resume.pdf (1 page, 249987 bytes).
+Output written on resume.pdf (1 page, 248728 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

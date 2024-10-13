@@ -1089,6 +1089,10 @@ INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplr.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplb.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplri.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplbi.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplri.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplbi.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplr.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplb.tfm
 INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT resume.aux
@@ -1103,5 +1107,6 @@ INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Bra
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb
+INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplbi.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb

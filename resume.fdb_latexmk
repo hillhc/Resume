@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1726417160 "c:/React/my-profo/mypro/Resume/resume.tex" "resume.pdf" "resume" 1726417162
-  "c:/React/my-profo/mypro/Resume/resume.tex" 1726417159 8610 8a304cfa7815ac95563c3eb20a51c3bc ""
+["pdflatex"] 1728825949 "c:/React/my-profo/mypro/Resume/resume.tex" "resume.pdf" "resume" 1728825951
+  "c:/React/my-profo/mypro/Resume/resume.tex" 1728825948 9276 ceb0cbd4da620da80f47b942ccd26829 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1664123740 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1664123740 3083 a707712f77b073b3833e4b1334a30e99 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1664123740 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -14,12 +14,14 @@
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1664123740 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1664123740 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplb.tfm" 1664131299 11208 03252ff9e6e2d7a0962289a50d8a499e ""
+  "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplbi.tfm" 1664131299 9320 f67d3e5de3241247d8b77732556fe145 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplr.tfm" 1664131299 11860 c3b4aba4cfa63b7a6c3688dc5ab4931d ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplri.tfm" 1664131299 11624 8f76752ab07fdd50d423cfaf124d5ba9 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1664123740 204258 aba4eee5a17f42be814f3d784d0cfb5a ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb" 1664123740 58496 4821a9fdf0d63b8442701160cb61c746 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1664123740 295323 07c90be888af62cddcbea2d451a520d3 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb" 1664131300 336018 38fb73901e72aeab84e851f626e4f5a2 ""
+  "c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplbi.pfb" 1664131300 340113 44a88b44a0eb1fc9a93bb6277f86c795 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb" 1664131300 331829 0b1eec2ff4b9ecccc8b468e348826067 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb" 1664131300 322895 2015bc59bf923516b5483eea20e83613 ""
   "c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1664126950 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -177,9 +179,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1664134303 4635069 7677ee69604aae14ed48b153c111a7f7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664134513 3058679 4417918d35ba2c2828715b5a7e987ea5 ""
   "c:/texlive/2022/texmf.cnf" 1664134253 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1726417162 1158 821ebaef6e2c4482e65c274e28c42536 "pdflatex"
-  "resume.out" 1726417162 579 f3615719fa6502776c32d683bf097aa3 "pdflatex"
-  "resume.tex" 1726417159 8610 8a304cfa7815ac95563c3eb20a51c3bc ""
+  "resume.aux" 1728825951 1181 38663ceb367bfbe4b21c1b7cdfcfe46a "pdflatex"
+  "resume.out" 1728825951 700 e665504b0601f070670bc463b8f3c7b1 "pdflatex"
+  "resume.tex" 1728825948 9276 ceb0cbd4da620da80f47b942ccd26829 ""
   (generated)
   "resume.aux"
   "resume.log"

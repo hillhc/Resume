@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  16 SEP 2024 01:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  13 OCT 2024 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -755,55 +755,25 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on 
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 129.
- (c:/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--190
-
- []
-
-[1
+ (c:/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd) [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: F3615719FA6502776C32D683BF097AA3;579.
+(rerunfilecheck)             Checksum: E665504B0601F070670BC463B8F3C7B1;700.
  ) 
 Here is how much of TeX's memory you used:
- 26200 strings out of 475075
- 507057 string characters out of 5783001
- 866824 words of memory out of 5000000
- 47098 multiletter control sequences out of 15000+600000
- 503428 words of font info for 72 fonts, out of 8000000 for 9000
+ 26219 strings out of 475075
+ 507337 string characters out of 5783001
+ 869825 words of memory out of 5000000
+ 47106 multiletter control sequences out of 15000+600000
+ 514581 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,122p,1034b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on resume.pdf (1 page, 249578 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplbi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
+Output written on resume.pdf (1 page, 310783 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
- 22077 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 30269 words of extra memory for PDF output out of 35830 (max. 10000000)
 

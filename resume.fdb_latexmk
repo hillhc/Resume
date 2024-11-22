@@ -1,11 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1728826603 "c:/React/my-profo/mypro/Resume/resume.tex" "resume.pdf" "resume" 1728826605
-  "c:/React/my-profo/mypro/Resume/resume.tex" 1728826602 9271 10f1896fb10aa3e1ff4bcd354e61de23 ""
+["pdflatex"] 1732262863 "c:/React/my-profo/mypro/Resume/resume.tex" "resume.pdf" "resume" 1732262865
+  "c:/React/my-profo/mypro/Resume/resume.tex" 1732262860 9427 feaf932acb792d5a402f537fdfd51dde ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1664123740 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1664123740 3083 a707712f77b073b3833e4b1334a30e99 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1664123740 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1664123740 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc" 1664131297 2409 c64dab22331c83731e970f6020b4448b ""
+  "c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1664131297 3124 3813fd4c981d99822890a2861b0d274c ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1664123752 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1664122552 1316 b636689f1933f24d1294acdf6041daaa ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1664123740 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
@@ -17,6 +18,7 @@
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplbi.tfm" 1664131299 9320 f67d3e5de3241247d8b77732556fe145 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplr.tfm" 1664131299 11860 c3b4aba4cfa63b7a6c3688dc5ab4931d ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/rm-qplri.tfm" 1664131299 11624 8f76752ab07fdd50d423cfaf124d5ba9 ""
+  "c:/texlive/2022/texmf-dist/fonts/tfm/public/tex-gyre/ts1-qplr.tfm" 1664131300 1628 0cde3c8a66f74ab8447166240fdd50f8 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1664123740 204258 aba4eee5a17f42be814f3d784d0cfb5a ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb" 1664123740 58496 4821a9fdf0d63b8442701160cb61c746 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1664123740 295323 07c90be888af62cddcbea2d451a520d3 ""
@@ -169,6 +171,7 @@
   "c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1664129783 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "c:/texlive/2022/texmf-dist/tex/latex/tex-gyre/ot1qpl.fd" 1664131300 1660 e9b22d666df8ddf20235e469d85dea27 ""
   "c:/texlive/2022/texmf-dist/tex/latex/tex-gyre/tgpagella.sty" 1664131301 2230 fc853fd117e6b73f5d6716214d3abb3c ""
+  "c:/texlive/2022/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd" 1664131301 1162 2c49e2817a9551ff0c50d454b41d1128 ""
   "c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty" 1664132446 12694 4770336659ba563be5de2e0739d61ddc ""
   "c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty" 1664132446 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "c:/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty" 1664132446 32329 5d201ab4b4c773e7c876c2a052b07be3 ""
@@ -179,9 +182,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1664134303 4635069 7677ee69604aae14ed48b153c111a7f7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664134513 3058679 4417918d35ba2c2828715b5a7e987ea5 ""
   "c:/texlive/2022/texmf.cnf" 1664134253 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1728826605 1181 38663ceb367bfbe4b21c1b7cdfcfe46a "pdflatex"
-  "resume.out" 1728826605 700 e665504b0601f070670bc463b8f3c7b1 "pdflatex"
-  "resume.tex" 1728826602 9271 10f1896fb10aa3e1ff4bcd354e61de23 ""
+  "resume.aux" 1732262865 1181 38663ceb367bfbe4b21c1b7cdfcfe46a "pdflatex"
+  "resume.out" 1732262865 700 e665504b0601f070670bc463b8f3c7b1 "pdflatex"
+  "resume.tex" 1732262860 9427 feaf932acb792d5a402f537fdfd51dde ""
   (generated)
   "resume.aux"
   "resume.log"

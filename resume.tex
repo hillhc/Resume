@@ -24,7 +24,7 @@
 %\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
 
 % adjust the page margins
-\usepackage[scale=0.9,bottom=3pt,top=10pt]{geometry}
+\usepackage[scale=0.8,bottom=3pt,top=10pt]{geometry}
 \usepackage{multicol}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
 %\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
@@ -131,7 +131,7 @@
 \end{center}
 
 \section{SUMMARY}
-I am a recent graduate with a degree in Computer Engineering from HKUST. I am currently working as a Research Assistant at HKUST (Department of Computer Science and Engineering). My research interests primarily lie in the area of Machine Learning / Artificial Intelligence and its practical applications, with a particular focus on computer vision. I am currently seeking further studies, research or work opportunities.
+I am a recent graduate with a degree in Computer Engineering from HKUST. My research interests primarily lie in the area of Machine Learning / Artificial Intelligence and its practical applications, with a particular focus on computer vision. I am currently seeking further studies, research or work opportunities.
 
 \section{EDUCATION}
 {\customcvedu{Graduation: July 2024}{BEng in Computer Engineering (\textbf{Second Class Honors, Division 1})}{Hong Kong University of Science and Technology (HKUST)}{}{}{}}
@@ -140,19 +140,18 @@ I am a recent graduate with a degree in Computer Engineering from HKUST. I am cu
 
 %\newpage
 \section{RESEARCH EXPERIENCE}
-\customcventry{1. Advanced Video Analytics and Edge AI for Smart Carpark Systems}{}{} 
+\customcventry{Advanced Video Analytics and Edge AI for Smart Carpark Systems}{}{} 
 {
   \begin{minipage}[t]{\textwidth}
-    \textit{Hong Kong University of Science and Technology} \\
-    \textit{Bachelor Degree Final Year Project (Supervisor: \textbf{Prof. Shueng-Han Gary Chan, CSE Department, HKUST})}
+    \textit{HKUST, Bachelor Degree Final Year Project (Supervisor: \textbf{Prof. Shueng-Han Gary Chan, CSE, HKUST})}
   \end{minipage}
 }
 {
   \begin{itemize}
     \item Developed a smart car park system that utilizes edge AI to provide real-time parking space availability. It is capable of informing drivers of available parking spaces while minimizing the computational, installation, and maintenance costs of the system.
     \begin{itemize}
-      \item Utilized \textbf{SOTA} You Only Look Once (YOLO) series models for the detection of cars.
-      \item Implemented a MobileNetV3-based backbone in YOLOv8 to reduce the number of parameters while maintaining optimal performance.
+      \item Utilized You Only Look Once (YOLO) series models for the detection of cars on Raspberry Pi.
+      \item Implemented a MobileNetV3-based backbone in YOLOv8 to prune the model size while maintaining performance.
       \item Utilized the LoRaWAN network to reduce the overall costs of network equipment installation and development.
     \end{itemize}
   \end{itemize}
@@ -160,36 +159,35 @@ I am a recent graduate with a degree in Computer Engineering from HKUST. I am cu
 
 \section{PROFESSIONAL EXPERIENCE}
 
-\customcventry{Hong Kong University of Science and Technology}{Hong Kong}{} 
+\customcventry{Research Assistant}{Hong Kong}{} 
 {
   \begin{minipage}[t]{\textwidth}
-    \textit{Research Assistant (\textbf{Department of Computer Science and Engineering})} \hfill \textit{08/2024 - Prsent}
+    \textit{\textbf{Prof. Shueng-Han Gary Chan, CSE, HKUST}} \hfill \textit{08/2024 - Prsent}
   \end{minipage}
 }
 {
   \begin{itemize}
-    \item Developed computer vision-based solutions using \textbf{SOTA} YOLO series models to meet the various needs of projects.
+    \item Developed computer vision-based solutions using YOLO series models to meet the various needs of projects.
     \item Developed web applications using Python and Flask for processing and displaying information.
-    \item Optimized models and application pipelines to deploy computer vision models on devices with limited computing power and low bandwidth scenarios.
+    \item Optimized models and application pipelines for computer vision on IoT devices.
     \item List of Projects:
     \begin{itemize}
       \item K11 MUSEA Cars and Pedestrian Flow Monitoring System
           \begin{itemize}
               \item Monitor real-time traffic and pedestrian flow in key areas of the business-mall complex.
               \item Provide property management with daily, weekly, monthly, and yearly reports to facilitate management.
-              \item Responsible for the training of models and development of AI scripts, backend systems, and the web frontend.
+              \item Responsible for the training of models and development of data capture pipelines, backend, and the web frontend.
           \end{itemize}
       \item Privacy-Preserving Elderly Monitoring with a Novel Edge AI Camera
           \begin{itemize}
               \item Monitor patients/elderly daily using privacy-conserving technology and alert staff if a patient or elderly person falls.
-              \item Currently in the trial phase and deployed in an elderly home and 30 solidarity elderly flats.
               \item Recipient of the \textbf{Hong Kong ICT Awards 2024, Smart People (Smart Ageing) Silver Award}.
-              \item Responsible for data visualization and creating Python scripts to generate daily reports for patients and the elderly.
+              \item Responsible for data visualization and daily reports generation scripts for patients and the elderly.
           \end{itemize}
       \item Smart Traffic Management System (Kung Tong, Hong Kong) \textbf{(Ongoing)}
           \begin{itemize}
-              \item Monitored real-time traffic at major junctions in the Kung Tong District, alerting authorities to congestion and accidents while analyzing traffic patterns.
-              \item Responsible for developing real-time traffic information capture pipelines using YOLO for data collection and later analytics.
+              \item Monitored real-time traffic at major junctions in the Kung Tong District, alerting authorities to congestion and accidents.
+              \item Responsible for developing real-time traffic information capture pipelines for traffic patterns analytics.
               \item Link: \href{https://www.police.gov.hk/ppp_en/03_police_message/ktpst.html}{https://www.police.gov.hk/}
           \end{itemize}
     \end{itemize}
@@ -198,10 +196,10 @@ I am a recent graduate with a degree in Computer Engineering from HKUST. I am cu
 
 \vspace{0.5em} % Add space between entries
 
-\customcventry{Hong Kong Telecom}{Hong Kong}{} 
+\customcventry{Intern}{Hong Kong}{} 
 {
   \begin{minipage}[t]{\textwidth}
-    \textit{Intern (\textbf{Fixed Networks Operation - Integrated Service Provision Center})} \hfill \textit{06/2023 - 04/2025}
+    \textit{\textbf{Hong Kong Telecom (Fixed Networks Operation - Integrated Service Provision Center)}} \hfill \textit{06/2023 - 04/2025}
   \end{minipage}
 }
 {

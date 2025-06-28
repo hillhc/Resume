@@ -1,6 +1,6 @@
-PWD e:\HKUST\Resume
+PWD e:\Code\Resume
 INPUT C:\Users\user\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT e:\HKUST\Resume\resume.tex
+INPUT e:\Code\Resume\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\moderncv\moderncv.cls
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\moderncv\moderncv.cls

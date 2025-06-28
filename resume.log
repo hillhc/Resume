@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.16)  16 MAR 2025 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.16)  28 JUN 2025 11:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**e:/HKUST/Resume/resume.tex
-(e:/HKUST/Resume/resume.tex
+**e:/Code/Resume/resume.tex
+(e:/Code/Resume/resume.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -478,7 +478,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
 
 Package geometry Warning: Over-specification in `v'-direction.
-    `height' (760.53699pt) is ignored.
+    `height' (676.04005pt) is ignored.
 
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
@@ -716,14 +716,14 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
+* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
 * v-part:(T,H,B)=(10.0pt, 832.04684pt, 3.0pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=537.75343pt
+* \textwidth=478.00812pt
 * \textheight=832.04684pt
-* \oddsidemargin=-42.39278pt
-* \evensidemargin=-42.39278pt
+* \oddsidemargin=-12.52011pt
+* \evensidemargin=-12.52011pt
 * \topmargin=-99.26999pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -762,7 +762,7 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 129.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 178.
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 177.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
@@ -778,15 +778,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: DBE7C16675B3413AFAAF71EDFCDD8615;561.
  ) 
 Here is how much of TeX's memory you used:
- 26822 strings out of 473523
- 518173 string characters out of 5715114
- 938602 words of memory out of 5000000
+ 26816 strings out of 473523
+ 518104 string characters out of 5715114
+ 936602 words of memory out of 5000000
  49531 multiletter control sequences out of 15000+600000
- 606531 words of font info for 96 fonts, out of 8000000 for 9000
+ 606111 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,129p,1019b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,11n,129p,1018b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplbi.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on resume.pdf (1 page, 317495 bytes).
+Output written on resume.pdf (1 page, 315057 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)

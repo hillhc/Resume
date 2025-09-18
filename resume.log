@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.16)  3 SEP 2025 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.16)  18 SEP 2025 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,7 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 129.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 129.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 177.
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 178.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
@@ -786,7 +786,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  129i,11n,129p,1018b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplbi.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on resume.pdf (1 page, 315047 bytes).
+Output written on resume.pdf (1 page, 316204 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)

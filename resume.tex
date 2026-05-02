@@ -119,7 +119,7 @@
 %            content
 %----------------------------------------------------------------------------------
 \begin{document}
-%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%\begin{CJK*}{UTF8}{gbsn}                        
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
 \vspace*{-10mm}
@@ -131,89 +131,98 @@
 \end{center}
 
 \section{SUMMARY}
-I am a graduate with a degree in Computer Engineering from HKUST and am currently pursuing a master's degree at UCL. My research interests primarily lie in the area of Machine Learning and Artificial Intelligence and their practical applications, with a particular focus on computer vision. I am currently seeking opportunities for further studies, research, or work.
+Software and Computer Vision Engineer experienced in deploying end-to-end AI pipelines and building robust backend systems. Adept at translating complex Edge AI concepts into practical solutions, utilizing novel technologies to solve real-life challenges and automate physical workflows for commercial clients and local authorities.
 
 \section{EDUCATION}
 {\customcvedu{Expected Graduation: September 2026}{MSc Computer Graphics, Vision and Imaging}{University College London (UCL)}{}{}{}}
+\vspace{-1mm} 
+\begin{itemize}
+    \item \small{\textbf{Highlighted Coursework}: Machine Vision, ML for Visual Computing, Inverse Problems, Robot Vision.}
+\end{itemize}
+\vspace{2mm}
 {\customcvedu{Graduation: July 2024}{BEng in Computer Engineering (\textbf{Second Class Honors, Division 1})}{Hong Kong University of Science and Technology (HKUST)}{}{}{}}
-{\customcvedu{8 (Out of 9), (R:8.5,L:9,W:7,S:7)}{}{IELTS Academic}{}{}{}}
-%\{\customcvedu{103 (Out of 120), (R:30/30,L:30/30,W:24/30,S:19/30)}{}{TOEFL iBT}{}{}{}}
+\vspace{-1mm} 
+\begin{itemize}
+  \item \small{\textbf{Highlighted Coursework}: Intro to NLP, Computer \textbf{\&} Communication Networks.}
+\end{itemize}
+\vspace{2mm}
+{\customcvedu{8.0 (Reading: 8.5, Listening: 9.0, Writing: 7.0, Speaking: 7.0)}{}{IELTS Academic}{}{}{}}
 
 %\newpage
-\section{RESEARCH EXPERIENCE}
-\customcventry{Advanced Video Analytics and Edge AI for Smart Carpark Systems}{}{} 
+\section{RELEVANT EXPERIENCE}
+
+\customcventry{Hyperspectral Image Analysis for Safe-Fabric Segmentation}{United Kingdom}{} 
 {
   \begin{minipage}[t]{\textwidth}
-    \textit{HKUST, Bachelor Degree Final Year Project (Supervisor: \textbf{Prof. Shueng-Han Gary Chan, CSE, HKUST})}
+    \textit{UCL, MSc Industry Dissertation Project (Partner: \textbf{Zori Tex})} \hfill \textit{Ongoing}
   \end{minipage}
 }
 {
   \begin{itemize}
-    \item Developed a smart car park system that utilizes edge AI to provide real-time parking space availability. It is capable of informing drivers of available parking spaces while minimizing the computational, installation, and maintenance costs of the system.
-    \begin{itemize}
-      \item Utilized You Only Look Once (YOLO) series models for the detection of cars on Raspberry Pi.
-      \item Implemented a MobileNetV3-based backbone in YOLOv8 to prune the model size while maintaining performance.
-      \item Utilized the LoRaWAN network to reduce the overall costs of network equipment installation and development.
-    \end{itemize}
+    \item Collaborating with industry partner Zori Tex to research and develop an automated computer vision pipeline for textile waste sorting utilizing hyperspectral imaging.
+    \item Exploring PCA and shallow networks to condense high-dimensional data for memory-efficient CNN processing, alongside a weakly supervised Autoencoder approach to handle uneven real-world illumination.
   \end{itemize}
-}{} 
-
-\section{PROFESSIONAL EXPERIENCE}
-
+}{}
+\vspace{2mm} 
 \customcventry{Research Assistant}{Hong Kong}{} 
 {
   \begin{minipage}[t]{\textwidth}
-    \textit{\textbf{Prof. Shueng-Han Gary Chan, CSE, HKUST}} \hfill \textit{08/2024 - 06/2025}
+    \textit{Prof. Shueng-Han Gary Chan, CSE, HKUST} \hfill \textit{08/2024 - 06/2025}
   \end{minipage}
 }
 {
   \begin{itemize}
-    \item Developed computer vision-based solutions using YOLO series models to meet the various needs of projects.
-    \item Developed web applications using Python and Flask for processing and displaying information.
-    \item Optimized models and application pipelines for computer vision on IoT devices.
-    \item List of Projects:
-    \begin{itemize}
-      \item K11 MUSEA Cars and Pedestrian Flow Monitoring System
-          \begin{itemize}
-              \item Monitor real-time traffic and pedestrian flow in key areas of the business-mall complex.
-              \item Provide property management with daily, weekly, monthly, and yearly reports to facilitate management.
-              \item Responsible for the training of models and development of data capture pipelines, backend, and the web frontend.
-          \end{itemize}
-      \item Privacy-Preserving Elderly Monitoring with a Novel Edge AI Camera
-          \begin{itemize}
-              \item Monitor patients/elderly daily using privacy-conserving technology and alert staff if a patient or elderly person falls.
-              \item Recipient of the \textbf{Hong Kong ICT Awards 2024, Smart People (Smart Ageing) Silver Award}.
-              \item Responsible for data visualization and daily reports generation scripts for patients and the elderly.
-          \end{itemize}
-      \item Smart Traffic Management System (Kung Tong, Hong Kong)
-          \begin{itemize}
-              \item Monitored real-time traffic at major junctions in the Kung Tong District, alerting authorities to congestion and accidents.
-              \item Responsible for developing real-time traffic information capture pipelines for traffic patterns analytics.
-              \item Link: \href{https://www.police.gov.hk/ppp_en/03_police_message/ktpst.html}{https://www.police.gov.hk/}
-          \end{itemize}
-    \end{itemize}
+    \vspace{1mm}
+    \item \textbf{K11 MUSEA Cars and Pedestrian Flow Monitoring System}
+        \begin{itemize}
+            \item Engineered an end-to-end analytics system tracking 60,000+ daily visitors, utilizing OpenCV and a PyTorch-based YOLO model for real-time local flow counting on edge platforms.
+            \vspace{1mm}
+            \item Developed a multithreaded Flask backend utilizing Redis for real-time data synchronization and SQLite/ Pandas for robust storage, powering a web dashboard to optimize mall operations.
+        \end{itemize}
+    \vspace{1mm}
+    \item \textbf{Privacy-Preserving Elderly Monitoring with a Novel Edge AI Camera}
+        \begin{itemize}
+            \item Contributed to the development of a privacy-preserving Edge AI fall-detection system deployed on an NPU-accelerated OrangePi, utilizing Human Pose Estimation for real-time patient monitoring.
+            \vspace{1mm}
+            \item Developed rule-based post-processing algorithms to minimize false alarms without compromising true positive cases, achieving 98\% accuracy and securing the Silver Award at the Hong Kong ICT Awards 2024.
+        \end{itemize}
+    \vspace{1mm}
+    \item \textbf{Smart Traffic Management System (Kung Tong, Hong Kong)}
+        \begin{itemize}
+            \item Trained and deployed YOLO models on a dual-RTX 4090 server to process live streams from 33 cameras across 11 major junctions, monitoring 20,000+ daily vehicles per junction.
+            \vspace{1mm}
+            \item Engineered automated client scripts using Python requests to securely transmit vehicle counts and yellow-box stop detections to a centralized API, handling Keycloak OAuth2 token authentication.
+        \end{itemize}
   \end{itemize}
 }{}
-
-\vspace{0.5em} % Add space between entries
-
+\vspace{2mm} 
+\customcventry{Advanced Video Analytics and Edge AI for Smart Carpark Systems}{Hong Kong}{} 
+{
+  \begin{minipage}[t]{\textwidth}
+    \textit{HKUST, Bachelor Degree Final Year Project (Supervisor: \textbf{Prof. Shueng-Han Gary Chan, CSE, HKUST})} \hfill \textit{09/2023 - 04/2024}
+  \end{minipage}
+}
+{
+  \begin{itemize}
+    \item Designed an Edge AI smart car park system to track real-time space availability, utilizing OpenCV for video frame grabbing and preprocessing to handle complex feeds from custom low-light and wide-angle cameras.
+    \vspace{1mm}
+    \item Deployed a PyTorch-based YOLOv8 model on a Raspberry Pi by integrating a MobileNetV3 backbone, converting to ONNX format, and utilizing Ultralytics for custom dataset annotation, halving inference latency and reducing parameters by 30\% while maintaining baseline accuracy.
+  \end{itemize}
+}{}
+\vspace{2mm} 
 \customcventry{Intern}{Hong Kong}{} 
 {
   \begin{minipage}[t]{\textwidth}
-    \textit{\textbf{Hong Kong Telecom (Fixed Networks Operation - Integrated Service Provision Center)}} \hfill \textit{06/2023 - 04/2025}
+    \textit{Hong Kong Telecom (HKT), Integrated Service Provision Center} \hfill \textit{06/2023 - 04/2025}
   \end{minipage}
 }
 {
   \begin{itemize}
-    \item Upgraded internal tools with Python to improve the efficiency of the department's daily operations.
-    \item Assisted in the development and integration of an AI chatbot for training purposes, providing answers based on standard flow instructions for employees within the department.
+    \item Engineered a Python GUI executable to replace a legacy system and eliminate manual checks, automating both Excel and physical report generation for phone line data.
+    \vspace{1mm}
+    \item Bypassed the lack of a native API using a custom web-scraping pipeline, dynamically extracting interface records to synchronize data with a MySQL database.
   \end{itemize}
 }{}
-
-\section{ADDITIONAL}
-\begin{itemize}
-  \item \textbf{Languages}: Cantonese(Native), Mandarin(Basic), English(Fluent), Japanese(Foundation)
-\end{itemize}
   %-----       letter       ---------------------------------------------------------
 \end{document}
 %% end of file `template.tex'.

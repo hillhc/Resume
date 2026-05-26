@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1779716658.67345 "e:/Code/Resume/resume.tex" "resume.pdf" "resume" 1779716659.63142 0
+["pdflatex"] 1779820872.77515 "e:/Code/Resume/resume.tex" "resume.pdf" "resume" 1779820873.70809 0
   "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1779471680 122721 f65b1723fcf8f6e23bc859008f2a6280 ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1742112929 12035605 24c066acf8170966f8aabd36eda561cd ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -176,10 +176,10 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1730400552 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "e:/Code/Resume/resume.tex" 1779716658 10439 84d926a0513b3840085e390cb6ba1c3c ""
-  "resume.aux" 1779716659 489 fe7ac36547c81fe84505011ca96d792a "pdflatex"
-  "resume.out" 1779716659 307 ba1958c51f8660221465037c83c6ffca "pdflatex"
-  "resume.tex" 1779716658 10439 84d926a0513b3840085e390cb6ba1c3c ""
+  "e:/Code/Resume/resume.tex" 1779820870 10439 a17be35023ba844b82e19de0cf8f82f1 ""
+  "resume.aux" 1779820873 489 fe7ac36547c81fe84505011ca96d792a "pdflatex"
+  "resume.out" 1779820873 307 ba1958c51f8660221465037c83c6ffca "pdflatex"
+  "resume.tex" 1779820870 10439 a17be35023ba844b82e19de0cf8f82f1 ""
   (generated)
   "resume.aux"
   "resume.log"
